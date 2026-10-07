@@ -1,6 +1,6 @@
 # 📚 Kumpulan Tugas Praktikum React JS
 
-Selamat datang! Repositori ini berisi kumpulan tugas, latihan, dan proyek akhir dari mata kuliah/praktikum **Pengembangan Frontend dengan React JS**, mulai dari pertemuan 1 hingga akhir.
+Selamat datang! Repositori ini berisi kumpulan tugas serta latihan **Pengembangan Frontend dengan React JS**, mulai dari pertemuan 1 hingga akhir.
 
 ## 🛠️ Tech Stack
 
